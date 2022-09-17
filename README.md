@@ -10,7 +10,7 @@
 
 - [Dataset](https://colab.research.google.com/drive/1r3kzt1ymSb6YuJ4vqrO-ib3lqTlr-dQx?usp=sharing)
 
-- **Link do Projeto em andamento**
+- **Link do Projeto finalizado**
 - https://colab.research.google.com/drive/1293HdLxkKRaDAEUqmgE4dcA_ah49VNNZ?usp=sharing
 
 
